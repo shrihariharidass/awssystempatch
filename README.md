@@ -28,7 +28,7 @@ The main infrastructure is defined in `main.tf`, which provisions AWS resources 
 
 ## Learn More
 
-For a detailed walkthrough, follow this [Medium article](https://medium.com/](https://shrihariharidas73.medium.com/automating-patch-management-with-aws-systems-manager-and-terraform-0af579553b18).
+For a detailed walkthrough, follow this [Medium article][(https://medium.com/](https://shrihariharidas73.medium.com/automating-patch-management-with-aws-systems-manager-and-terraform-0af579553b18)].
 
 ## Author
 
